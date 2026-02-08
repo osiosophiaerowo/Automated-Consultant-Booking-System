@@ -16,7 +16,7 @@ To ensure the consultant remains productive and prepared, I configured:
 * **Daily Limits:** A cap of 4 sessions per day to protect "deep work" hours.
 * **Notice Periods:** A 4-hour minimum lead time to prevent surprise bookings.
 
-### 2. Client Intake Form
+### 3. Client Intake Form
 I engineered a custom questionnaire to qualify leads before they ever reach the calendar:
 * **Challenge Identification:** "What is the current challenge of your business?"
 * **Guidance Focus:** "Is there a specific area you need expert guidance?"
