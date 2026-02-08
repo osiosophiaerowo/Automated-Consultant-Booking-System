@@ -28,16 +28,20 @@ I engineered a custom questionnaire to qualify leads before they ever reach the 
 
 ---
 
-## 📸 System Walkthrough
+## System Walkthrough
 
-### The Booking Experience
-*How clients see available slots.*
-![Booking Page](IMAGE_URL_HERE)
 
-### Intake Logic
-*The form used to gather critical client data.*
-![Intake Form](IMAGE_URL_HERE)
+***1. Client Entry Point***
 
-### Protection Settings
-*The backend logic for buffers and limits.*
-![Settings](IMAGE_URL_HERE)
+This is the professional landing page I configured to welcome clients. It features a clear value proposition for the '30 Minutes Strategy Meeting,' setting expectations immediately and ensuring a high-quality user experience from the very first click.
+
+
+
+***2. Live Calendar***
+
+The active booking interface where clients select their preferred date. I enabled automatic time-zone detection (shown here in Central Time) to eliminate scheduling confusion across different regions.
+
+
+***3. Backend Availability***
+
+A behind-the-scenes look at the 'Scheduling Engine.' I established a custom 10:00 - 16:00 window and manually designated specific 'Unavailable' days to protect the consultant’s deep-work time and prevent overbooking.
