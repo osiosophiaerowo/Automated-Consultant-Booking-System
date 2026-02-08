@@ -16,12 +16,12 @@ To ensure the consultant remains productive and prepared, I configured:
 * **Daily Limits:** A cap of 4 sessions per day to protect "deep work" hours.
 * **Notice Periods:** A 4-hour minimum lead time to prevent surprise bookings.
 
-### 2. Smart Intake Form
-I engineered a custom questionnaire to qualify leads before they ever reach the calendar:
-* **Goal Setting:** Mandatory response for "What is your #1 goal for this call?" (Required).
-* **Contact Logic:** Automated phone/video detail collection based on meeting type.
-
-### 3. Conflict Resolution
+### 3. Client Intake Form
+Customized the booking questionnaire to include:
+* **Challenge Identification:** "What is the current challenge of your business?"
+* **Guidance Focus:** "Is there a specific area you need expert guidance?"
+  
+### 4. Conflict Resolution
 * **Live Sync:** Integrated with Google Calendar to provide 100% real-time accuracy and zero double-bookings.
 
 ---
