@@ -16,13 +16,15 @@ To ensure the consultant remains productive and prepared, I configured:
 * **Daily Limits:** A cap of 4 sessions per day to protect "deep work" hours.
 * **Notice Periods:** A 4-hour minimum lead time to prevent surprise bookings.
 
-### 3. Client Intake Form
-Customized the booking questionnaire to include:
+### 2. Client Intake Form
+I engineered a custom questionnaire to qualify leads before they ever reach the calendar:
 * **Challenge Identification:** "What is the current challenge of your business?"
 * **Guidance Focus:** "Is there a specific area you need expert guidance?"
-  
+* **Commitment Check:** "Are you willing to follow the clear set of Next Steps we will end the call with?"
+
 ### 4. Conflict Resolution
-* **Live Sync:** Integrated with Google Calendar to provide 100% real-time accuracy and zero double-bookings.
+* **Live Sync:** Integrated with Google Calendar to provide 100% real-time accuracy and zero double-bookings by monitoring consultant’s real-time availability. 
+* **Dynamic Availability:** The system automatically cross-references all personal appointments and existing busy blocks, instantly removing those slots from the booking page to ensure zero scheduling conflicts.
 
 ---
 
