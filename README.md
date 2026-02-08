@@ -35,13 +35,18 @@ I engineered a custom questionnaire to qualify leads before they ever reach the 
 
 This is the professional landing page I configured to welcome clients. It features a clear value proposition for the '30 Minutes Strategy Meeting,' setting expectations immediately and ensuring a high-quality user experience from the very first click.
 
+<img width="953" height="559" alt="Scheduling Page" src="https://github.com/user-attachments/assets/3e6ad9db-ce28-4323-a268-607a28078f36" />
 
 
 ***2. Live Calendar***
 
 The active booking interface where clients select their preferred date. I enabled automatic time-zone detection (shown here in Central Time) to eliminate scheduling confusion across different regions.
 
+<img width="716" height="461" alt="Landing Page" src="https://github.com/user-attachments/assets/28ecb02a-6c46-4af2-9f1f-18c9935f0593" />
 
 ***3. Backend Availability***
 
 A behind-the-scenes look at the 'Scheduling Engine.' I established a custom 10:00 - 16:00 window and manually designated specific 'Unavailable' days to protect the consultant’s deep-work time and prevent overbooking.
+
+<img width="1363" height="649" alt="Calendly Scheduling" src="https://github.com/user-attachments/assets/74f012da-d796-4f28-b831-e8c0bbc9d2b0" />
+
