@@ -1,12 +1,16 @@
 # Automated-Consultant-Booking-System
-A professional booking system i set up to manage a client's schedule. It automates meeting requests, collects info from the guests upfront and uses buffer settings to prevent back-to-back meetings 
+A professional booking system i set up to manage a client's schedule. It automates meeting requests, collects info from the guests upfront & uses buffer settings to prevent back-to-back meetings 
 
 ## Project Overview
-I designed and deployed a professional scheduling engine for a Strategy Consultant. This system automates client intake, manages time-zone synchronization, and protects the consultant's schedule from burnout through custom "guardrail" logic.
+I configured a professional automated scheduling system for a Strategy Consultant to manage his intake, calendar protection & time-zone synchronization. This set-up  eliminates manual scheduling, ensures the consultant is prepared for every session & protects the consultant's schedule from burnout through custom "guardrail" logic.
 
-## Key Implementations
+## Key Implementations/System Configuration
 
-### 1. Calendar Guardrails
+### 1. Availabilty Logic
+* **Increments:** Set to 30 minutes for a professional, organised calendar view.
+* **Time Zone: Set to "Automatic" to detect the guest's location and prevent scheduling errors.
+
+### 2. Calendar Guardrails
 To ensure the consultant remains productive and prepared, I configured:
 * **Buffer Times:** 15-minute windows before and after every meeting to prevent back-to-back fatigue.
 * **Daily Limits:** A cap of 4 sessions per day to protect "deep work" hours.
